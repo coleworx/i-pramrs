@@ -1,0 +1,5 @@
+actual\predicted,Low,Medium,High,Critical
+Low,20,1,0,0
+Medium,1,22,1,0
+High,0,0,17,6
+Critical,0,0,2,14
