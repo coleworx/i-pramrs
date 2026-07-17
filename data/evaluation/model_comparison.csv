@@ -1,0 +1,4 @@
+model,accuracy,weighted_f1,macro_f1
+random_forest,0.8452,0.844,0.8348
+svm,0.869,0.8702,0.8643
+logreg,0.8571,0.8579,0.8498
